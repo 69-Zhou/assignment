@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/checpoint.jpg.jpg</file>
+        <file>image/mainwidgets.jpg.jpg</file>
+        <file>image/start.jpg.jpg</file>
+        <file>image/timg.jpg</file>
+    </qresource>
+</RCC>
