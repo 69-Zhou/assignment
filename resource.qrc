@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/attack3.png</file>
+        <file>image/begin2.jpg</file>
+        <file>image/gold.png</file>
+        <file>image/lose.png</file>
+        <file>image/map.png</file>
+        <file>image/tower2.png</file>
+        <file>image/tower3.png</file>
+        <file>image/win.png</file>
+        <file>image/position1.png</file>
+        <file>image/begin11.jpg</file>
+        <file>image/enemy11.png</file>
+        <file>image/enemy22.png</file>
+        <file>image/again1.png</file>
+        <file>image/start.png</file>
+        <file>image/help1.png</file>
+        <file>image/attack1.png</file>
+        <file>image/attack2.png</file>
+        <file>image/tower1.png</file>
+        <file>image/map1.jpg</file>
+        <file>image/position2.png</file>
+        <file>image/helpscene1.jpg</file>
+        <file>image/11.png</file>
+        <file>image/22.png</file>
+        <file>image/enemy55.png</file>
+        <file>image/2.png</file>
+        <file>music/choose.mp3</file>
+        <file>music/enemyinto.mp3</file>
+        <file>music/Gameover.mp3</file>
+        <file>music/Gamewin.mp3</file>
+        <file>music/gold.mp3</file>
+        <file>music/HP-.mp3</file>
+        <file>music/round1.mp3</file>
+        <file>music/round2.mp3</file>
+        <file>image/rect.jpg</file>
+    </qresource>
+</RCC>
